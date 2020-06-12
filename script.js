@@ -53,7 +53,6 @@ var marker = [
           map: map
      }
      
-     
 ]
      // loop through marker array
      for(i = 0; i < marker.length; i++) {
@@ -87,35 +86,6 @@ var marker = [
                     }
           }
 }  
-     
-     //      // add a new marker object
-     //  function addMarker(props) {
-     //       var marker = new  {google.maps.Marker({
-     //            position:props.coords, 
-     //            map: map,
-     //            content: props.infoWindow,
-     //           //  iconImage: 'https://developers.google.com/maps/documentation/javascript/examples'
-     //           });
-
-     //           // if(iconImage) {
-     //           //      marker.setIcon(iconImage)
-     //           // }
-
-     //           // Checking  for content
-     //           if(props.content) {
-     //                var infoWindow = new google.maps.InfoWindow(
-     //                     {content: props.content }
-     //                );
-     //                marker.addListener('click', function(event) {
-     //                     infoWindow.open(map, marker);
-     //                     // console.log('my event', event)
-
-     //                })
-     //           } else {
-     //                console.log('no content to display')
-                    
-     //           }
-     // }
      
 };               
 // Append the 'script' element to 'head'
