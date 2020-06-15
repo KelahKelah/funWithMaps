@@ -1,0 +1,19 @@
+{
+  "name": "funwithmaps",
+  "version": "1.0.0",
+  "description": "Displays locations on a map",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelahKelah/funWithMaps.git"
+  },
+  "author": "Kelechi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelahKelah/funWithMaps/issues"
+  },
+  "homepage": "https://github.com/KelahKelah/funWithMaps#readme"
+}
